@@ -11,7 +11,7 @@ module Firim
                                      description: "The fir platform, support ios/android"),
         # fir.im api url
         FastlaneCore::ConfigItem.new(key: :firim_api_url,
-                                     default_value: "https://api.fir.im",
+                                     default_value: "https://www.betaqr.com",
                                      description: "fir.im api URL"),
         # firim info
         FastlaneCore::ConfigItem.new(key: :firim_api_token,
